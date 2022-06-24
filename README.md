@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./title.gif" />
+  <img src="./ezgif-2-d7c175b732.gif" />
   <img src="https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
