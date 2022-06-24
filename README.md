@@ -26,5 +26,5 @@
 Hello there! thanks for visiting my profile.
 </h4>
 <p align="center">
-Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio-64156a240/">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio">projects</a>
+Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio-64156a240/">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio?tab=repositories&q=&type=&language=&sort=stargazers">projects</a>
 </p>
