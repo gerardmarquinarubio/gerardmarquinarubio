@@ -15,7 +15,7 @@
   🧔🏻‍♂️ He / Him <br /> 
   📍 Made in Barcelona, living in Berlin <br /> 
   🌐 English, Spanish, Catalan, German <br />
-  👨🏻‍💻 Work experience: 2 years <br />
+  👨🏻‍💻 2 Years of Work Experience <br />
   🎓 Microsystems and Networks (iFP Hospitalet de Llobregat, Barcelona) <br />
   🎓 Web Application Development (La Salle Gracia, Barcelona) <br />
   🎓 Software Engineering (Codeworks, Berlin) <br />
