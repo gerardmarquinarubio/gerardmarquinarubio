@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-php-474A8A?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   </p>
   <h3 align="center">Frontend</h3>
   <p align="center">
@@ -27,6 +28,9 @@
   <img src="https://img.shields.io/badge/-sveltekit-gray?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/-vue-55cc99?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-nuxt-66dd88?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-tailwind-1155c9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css-gray?style=for-the-badge&logo=cssmodules&logoColor=white" />
+  <img src="https://img.shields.io/badge/-windicss-skyblue?style=for-the-badge&logo=windicss&logoColor=white" />
   </p>
   <h3 align="center">Backend</h3>
   <p align="center">
