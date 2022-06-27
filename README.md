@@ -14,34 +14,34 @@
   <h1> </h1>
   <h3 align="center">Languages<h3>
   <p align="center">
-  <img src="https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-php-474A8A?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-php-787CB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-java-F58313?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-python-3477AE?style=for-the-badge&logo=python&logoColor=white" />
   </p>
   <h3 align="center">Frontend</h3>
   <p align="center">
-  <img src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-react-60DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-tailwind-1155c9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-windicss-skyblue?style=for-the-badge&logo=windicss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-windicss-368BEE?style=for-the-badge&logo=windicss&logoColor=white" />
   </p>
   <h3 align="center">Backend</h3>
   <p align="center">
-  <img src="https://img.shields.io/badge/-nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-express-green?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-nest-E0234D?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-express-57A644?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-prisma-white?style=for-the-badge&logo=prisma&logoColor=black" />
-  <img src="https://img.shields.io/badge/-SQL-2234a1?style=for-the-badge&logo=MySql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-01758F?style=for-the-badge&logo=MySql&logoColor=white" />
   <img src="https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-laravel-04AB4E?style=for-the-badge&logo=laravel&logoColor=white" />
   </p>
   <h3 align="center">Testing & Documentation</h3>
   <p align="center">
-  <img src="https://img.shields.io/badge/-jest-C63D14?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-  <img src="https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-swagger-emerald?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jest-C53C14?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-mocha-8A6343?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-swagger-84EA2B?style=for-the-badge&logo=swagger&logoColor=white" />
   </p>
   <h3 align="center">Productivity</h3>
   <p align="center">
