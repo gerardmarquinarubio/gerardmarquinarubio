@@ -51,10 +51,13 @@
   </p>
 </h1>
 <h1> </h1>
-<h4 align="center">
+<h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" /> <br />
 Hello there! thanks for visiting my profile.
+</h3>
+<h4 align="center">
+Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio//">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio?tab=repositories&q=&type=&language=&sort=stargazers">projects</a>
 </h4>
 <p align="center">
-Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio-64156a240/">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio?tab=repositories&q=&type=&language=&sort=stargazers">projects</a>
-</p>
+If not, you can continue reading through my portfolio/resume.
+<p>
