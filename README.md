@@ -24,23 +24,16 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/-sveltekit-gray?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/-vue-55cc99?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-nuxt-66dd88?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-tailwind-1155c9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-css-gray?style=for-the-badge&logo=cssmodules&logoColor=white" />
   <img src="https://img.shields.io/badge/-windicss-skyblue?style=for-the-badge&logo=windicss&logoColor=white" />
   </p>
   <h3 align="center">Backend</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-koa-white?style=for-the-badge&logo=koa&logoColor=black" />
   <img src="https://img.shields.io/badge/-express-green?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-prisma-white?style=for-the-badge&logo=prisma&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-2234a1?style=for-the-badge&logo=MySql&logoColor=white" />
   <img src="https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
   </p>
   <h3 align="center">Testing & Documentation</h3>
