@@ -63,7 +63,7 @@
   </p>
   <h3 align="center">Productivity</h3>
   <p align="center">
-  <img src="https://img.shields.io/badge/-git-eeaa32?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-ci/cd-black?style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/-docker-2597EC?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
