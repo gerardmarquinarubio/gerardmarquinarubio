@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-prisma-white?style=for-the-badge&logo=prisma&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-01758F?style=for-the-badge&logo=MySql&logoColor=white" />
   <img src="https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-laravel-04AB4E?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-laravel-EE3A2D?style=for-the-badge&logo=laravel&logoColor=white" />
   </p>
   <h3 align="center">Testing & Documentation</h3>
   <p align="center">
