@@ -15,7 +15,7 @@
   <h3 align="center">Languages<h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-php-787CB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-java-F58313?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/-python-3477AE?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-jest-C53C14?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-mocha-8A6343?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-swagger-84EA2B?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/-swagger-84EA2B?style=for-the-badge&logo=swagger&logoColor=black" />
   </p>
   <h3 align="center">Productivity</h3>
   <p align="center">
