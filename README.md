@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-react-60DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-daisyui-368BEE?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css-6F1ADF?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
   <h3 align="center">Backend</h3>
   <p align="center">
