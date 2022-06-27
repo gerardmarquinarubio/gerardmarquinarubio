@@ -4,9 +4,12 @@
   <img width="200" src="https://user-images.githubusercontent.com/106877422/175488832-b2d68bae-0f98-4263-9739-32de4acd18d1.png" /> <br /> <br />
   <a href="https://www.linkedin.com/in/gerard-marquina-rubio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+  </a>
+  <a href="https://medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
   <a href="https://twitter.com">
-    <img href="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <br />
   💻 Full Stack Developer <br /> 
