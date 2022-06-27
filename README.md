@@ -46,7 +46,7 @@
   <h3 align="center">Productivity</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-git-eeaa32?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ci-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ci-black?style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   </p>
 </h1>
