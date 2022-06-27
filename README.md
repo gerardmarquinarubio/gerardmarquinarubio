@@ -27,21 +27,27 @@
   <img src="https://img.shields.io/badge/-typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-php-787CB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-java-F58313?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/-python-3477AE?style=for-the-badge&logo=python&logoColor=white" />
   </p>
   <h3 align="center">Frontend</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-react-60DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-css-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
   <h3 align="center">Backend</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-nest-E0234D?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-express-57A644?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-aws-131921?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-prisma-white?style=for-the-badge&logo=prisma&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-01758F?style=for-the-badge&logo=MySql&logoColor=white" />
   <img src="https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
