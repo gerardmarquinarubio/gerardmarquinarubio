@@ -41,6 +41,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-nest-E0234D?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-express-57A644?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-aws-131921?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-prisma-white?style=for-the-badge&logo=prisma&logoColor=black" />
   <img src="https://img.shields.io/badge/-SQL-01758F?style=for-the-badge&logo=MySql&logoColor=white" />
   <img src="https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -50,13 +51,15 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-jest-C53C14?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-mocha-8A6343?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/-chai-94161F?style=for-the-badge&logo=chai&logoColor=white" />
   <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-swagger-84EA2B?style=for-the-badge&logo=swagger&logoColor=black" />
   </p>
   <h3 align="center">Productivity</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-git-eeaa32?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ci%20cd-black?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ci/cd-black?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/-docker-2597EC?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   </p>
 </h1>
