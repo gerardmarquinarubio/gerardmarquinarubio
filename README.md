@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-swagger-84EA2B?style=for-the-badge&logo=swagger&logoColor=black" />
   </p>
-  <h3 align="center">Productivity</h3>
+  <h3 align="center">Productivity & Tools</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-ci/cd-black?style=for-the-badge&logo=circleci&logoColor=white" />
