@@ -78,5 +78,5 @@ Hello there! thanks for visiting my profile.
 Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio//">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio?tab=repositories&q=&type=&language=&sort=stargazers">projects</a>
 </h4>
 <p align="center">
-If not, you can continue reading through my portfolio/resume.
+If not, you can continue reading through my <a href="./Gerard_Marquina Rubio_Resume_13-07-2022-14-55-41.pdf">CV/resume</a>.
 <p>
