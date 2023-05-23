@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./ezgif-2-d7c175b732.gif" />
   <h4 align="center"> 
-  <img width="200" src="https://user-images.githubusercontent.com/106877422/175488832-b2d68bae-0f98-4263-9739-32de4acd18d1.png" /> <br /> <br />
+  <img width="200" src="https://avatars.githubusercontent.com/u/106877422" /> <br /> <br />
   <a href="https://www.linkedin.com/in/gerard-marquina-rubio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
