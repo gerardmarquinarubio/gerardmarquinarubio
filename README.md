@@ -69,7 +69,7 @@
 Hello there! thanks for visiting my profile.
 </h3>
 <h4 align="center">
-Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio//">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio?tab=repositories&q=&type=&language=&sort=stargazers">projects</a>
+Since you got so far already you could check my <a href="https://www.linkedin.com/in/gerard-marquina-rubio/">Linkedin</a> or any of my <a href="https://github.com/gerardmarquinarubio?tab=repositories&q=&type=&language=&sort=stargazers">projects</a>
 </h4>
 <p align="center">
 If not, you can continue reading through my <a href="./Gerard_Marquina_Rubio_Resume.pdf">CV/resume</a>.
