@@ -15,6 +15,7 @@
   🎓 Web Application Development (La Salle Gracia, Barcelona) <br />
   🎓 Software Engineering (Codeworks, Berlin) <br />
   </h4>
+  <img width="400" src="axis.png" />
   <h1> </h1>
   <h3 align="center">Languages<h3>
   <p align="center">
