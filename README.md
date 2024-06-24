@@ -28,9 +28,6 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-react-60DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -50,8 +47,6 @@
   <h3 align="center">Testing & Documentation</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-jest-C53C14?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-mocha-8A6343?style=for-the-badge&logo=mocha&logoColor=white" />
-  <img src="https://img.shields.io/badge/-chai-94161F?style=for-the-badge&logo=chai&logoColor=white" />
   <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-swagger-84EA2B?style=for-the-badge&logo=swagger&logoColor=black" />
   </p>
