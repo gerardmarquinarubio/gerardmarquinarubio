@@ -10,7 +10,7 @@
   🧔🏻‍♂️ He / Him <br /> 
   📍 Made in Barcelona, living in Berlin <br /> 
   🌐 English, Spanish, Catalan, German <br />
-  👨🏻‍💻 Working in WebDev since 2017 (7 years of experience) <br />
+  👨🏻‍💻 Working in WebDev since 2017 <br />
   🎓 Microsystems and Networks (iFP Hospitalet de Llobregat, Barcelona) <br />
   🎓 Web Application Development (La Salle Gracia, Barcelona) <br />
   🎓 Software Engineering (Codeworks, Berlin) <br />
