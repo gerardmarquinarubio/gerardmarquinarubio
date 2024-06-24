@@ -15,7 +15,7 @@
   🎓 Web Application Development (La Salle Gracia, Barcelona) <br />
   🎓 Software Engineering (Codeworks, Berlin) <br />
   </h4>
-  <h1 align="center"><img width="400" src="axis.png" /></h1>
+  <h1 align="center"><img width="800" src="axis.png" /></h1>
   <h3 align="center">Languages<h3>
   <p align="center">
   <img src="https://img.shields.io/badge/-typescript-2F71BB?style=for-the-badge&logo=typescript&logoColor=white" />
